@@ -1,0 +1,11 @@
+a = 10  # Int
+b = 3.14  # Float
+C = "Hello"  # Str
+d = "Hi"  # str
+e = "1234"  # str
+f = True  # Boolean
+g = False  # Boolean
+h = None  # Nonetype
+i = ""  # str-blank
+j = " "  # str-empty space
+C = a + b
